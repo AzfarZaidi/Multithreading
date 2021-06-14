@@ -1,4 +1,4 @@
-package com.learning.multithreading;
+package com.multithreading.basics;
 
 public class SyncBlocks {
     public static int counter1 = 0;

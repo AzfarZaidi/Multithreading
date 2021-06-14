@@ -1,4 +1,4 @@
-package com.learning.multithreading;
+package com.multithreading.basics;
 
 public class Daemon {
     public static void main(String[] args) {

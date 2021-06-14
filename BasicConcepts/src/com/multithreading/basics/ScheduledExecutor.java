@@ -1,6 +1,5 @@
-package com.learning.multithreading;
+package com.multithreading.basics;
 
-import java.util.concurrent.Executor;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;

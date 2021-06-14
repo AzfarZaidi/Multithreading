@@ -1,4 +1,4 @@
-package com.learning.multithreading;
+package com.multithreading.basics;
 
 import java.util.concurrent.ArrayBlockingQueue;
 
@@ -41,6 +41,7 @@ class FirstRunner implements Runnable {
         }
     }
 }
+
 class SecondRunner implements Runnable {
     java.util.concurrent.BlockingQueue<Integer> blockingQueue;
 
