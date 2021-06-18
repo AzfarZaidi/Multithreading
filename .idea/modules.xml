@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicConcepts/BasicConcepts.iml" filepath="$PROJECT_DIR$/BasicConcepts/BasicConcepts.iml" />
       <module fileurl="file://$PROJECT_DIR$/DiningPhilosophers/DiningPhilosophers.iml" filepath="$PROJECT_DIR$/DiningPhilosophers/DiningPhilosophers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ForkJoinFramework/ForkJoinFramework.iml" filepath="$PROJECT_DIR$/ForkJoinFramework/ForkJoinFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryManagement/LibraryManagement.iml" filepath="$PROJECT_DIR$/LibraryManagement/LibraryManagement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading.iml" />
     </modules>
   </component>
